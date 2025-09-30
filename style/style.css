@@ -1,3 +1,8 @@
 body {
     background:  beige, solid, repeat-y;
 }
+
+.parallax-background {
+    position: relative;
+    
+}  
