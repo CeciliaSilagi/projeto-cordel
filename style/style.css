@@ -2,8 +2,7 @@
     position: relative;
     height: 100vh;
     width: 100vh;
-    border: 15px solid rgba(0, 0, 0, 0.39);
-    
+
     background:  blanchedalmond, solid, repeat-y;
     background-size: cover;
     text-align: center;
