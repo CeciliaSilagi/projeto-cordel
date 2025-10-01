@@ -1,5 +1,5 @@
 body {
-    background:  beige, solid, repeat-y;
+    background:  blanchedalmond, solid, repeat-y;
 }
 
 .parallax-background {
@@ -7,7 +7,7 @@ body {
     height: 100vh;
     width: 100vh;
 
-    background:  beige, solid, repeat-y;
+    background:  blanchedalmond, solid, repeat-y;
     background-size: cover;
 }  
 
