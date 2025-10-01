@@ -10,3 +10,8 @@ body {
     background:  beige, solid, repeat-y;
     background-size: cover;
 }  
+
+.parallax-p {
+    text-align: center;
+
+}
