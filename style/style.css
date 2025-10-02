@@ -20,6 +20,8 @@
 .content {
     font: Arial, Helvetica, sans-serif, 20px;
     text-align: center;
+    background: fixed, cover, no-repeat;
+    background-attachment: fixed;
     
 }
 
