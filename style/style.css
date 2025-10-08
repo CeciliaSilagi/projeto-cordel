@@ -26,6 +26,11 @@ header > p {
     padding-bottom: 50px;
 }
 
+h1 {
+    padding-top: 50px;
+    font-variant: small-caps;
+}
+
 h1.parallax-h1-Titulo_do_Cordel {
     padding-top: 50px;
     font-variant: small-caps;
