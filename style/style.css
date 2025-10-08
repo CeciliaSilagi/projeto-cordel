@@ -5,12 +5,18 @@
     padding: 0px;
 }
 
-html, body.parallax-body {
+html, body {
     min-height: 100vh;
     background-color: darkgray;
 }
 
-header .parallax-header {
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+ header .parallax-header {
     background-color: black;
     color: white;
     text-align: center;
