@@ -6,7 +6,8 @@
 }
 
 html, body {
-    background-color: dark;
+    min-height: 100vh;
+    background-color: darkgray;
 }
 
 .parallax-body {
