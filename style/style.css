@@ -36,6 +36,12 @@ header > p {
     text-align: center;
 }
 
+a {
+     color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
 .parallax-a {
     color: white;
     text-decoration: none;
