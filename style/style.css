@@ -16,13 +16,8 @@ header {
     text-align: center;
 }
 
- .parallax-header {
-    background-color: black;
-    color: white;
-    text-align: center;
-}
 
-.parallax-header > p {
+header > p {
     padding-bottom: 50px;
 }
 
