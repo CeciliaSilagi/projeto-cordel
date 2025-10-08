@@ -69,6 +69,13 @@ header a, footer a {
    background-attachment: fixed;
 }
 
+footer {
+     background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
 .parallax-footer{
     background-color: black;
     color: white;
