@@ -44,6 +44,10 @@ html, body {
     font-weight: bolder;
 }
 
+.parallax-a :hover{
+    text-decoration: underline;
+}
+
 .content {
     font: Arial, Helvetica, sans-serif, 20px;
     text-align: center;
