@@ -43,7 +43,10 @@ p {
 }
 
 .parallax-p {
+    background-color: rgba(0, 0, 0, 0.482);
+    color: white;
     padding-top: 50px;
+
 }
 
 a {
