@@ -20,6 +20,7 @@ html, body {
     text-align: center;
 }  
 
+
 .parallax-header {
     background-color: black;
     color: white;
@@ -32,6 +33,10 @@ header {
     color: white;
     text-align: center;
     padding: 2rem;
+}
+
+header > p {
+    padding-bottom: 50px;
 }
 
 .parallax-h1-Titulo_do_Cordel {
