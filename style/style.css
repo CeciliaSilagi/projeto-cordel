@@ -86,6 +86,13 @@ section.image {
    background-attachment: fixed;
 }
 
+footer{
+      background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
  footer.parallax-footer{
     background-color: black;
     color: white;
