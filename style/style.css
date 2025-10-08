@@ -27,6 +27,13 @@ html, body {
     padding: 2rem;
 }
 
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
+
 .parallax-h1-Titulo_do_Cordel {
     padding-top: 50px;
     font-variant: small-caps;
