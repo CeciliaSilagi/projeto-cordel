@@ -43,7 +43,7 @@ html, body {
     font-weight: bolder;
 }
 
-.parallax-a :hover{
+.parallax-a a:hover, .parallax-footer a:hover{
     text-decoration: underline;
 }
 
