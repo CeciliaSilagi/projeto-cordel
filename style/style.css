@@ -21,6 +21,8 @@ html, body {
 }  
 
 .parallax-header {
+    background-color: black;
+    color: white;
     text-align: center;
     padding: 2rem;
 }
