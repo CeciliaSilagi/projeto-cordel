@@ -70,5 +70,8 @@ header a, footer a {
 }
 
 .parallax-footer{
+    background-color: black;
+    color: white;
     text-align: center;
+    padding: 10px;
 }
