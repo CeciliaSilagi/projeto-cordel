@@ -28,14 +28,7 @@ html, body {
     padding: 2rem;
 }
 
-header {
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 2rem;
-}
-
-header > p {
+.parallax-header > p {
     padding-bottom: 50px;
 }
 
