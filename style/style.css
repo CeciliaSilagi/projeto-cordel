@@ -37,8 +37,8 @@ h1.parallax-h1-Titulo_do_Cordel {
 }
 
 p {
-    background-color: white;
-    color: black;
+    background-color: rgba(0, 0, 0, 0.482);
+    color: white;
     padding-top: 50px;
 }
 
