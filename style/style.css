@@ -10,6 +10,12 @@ html, body {
     background-color: darkgray;
 }
 
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
  .parallax-header {
     background-color: black;
     color: white;
