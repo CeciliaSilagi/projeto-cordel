@@ -16,6 +16,11 @@ header {
     text-align: center;
 }
 
+ header .parallax-header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
 
 header > p {
     padding-bottom: 50px;
