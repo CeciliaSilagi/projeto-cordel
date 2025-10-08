@@ -47,7 +47,7 @@ html, body {
     text-decoration: underline;
 }
 
-header a, footer a {
+.parallax-a a, .parallax-footer a {
     color: white;
     text-decoration: none;
     font-weight: bolder;
