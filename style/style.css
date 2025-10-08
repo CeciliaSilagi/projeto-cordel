@@ -59,6 +59,11 @@ header a, footer a {
     font-weight: bolder;
 }
 
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
 section.content {
     background-color: rgba(0, 0, 0, 0.482);
     font: Arial, Helvetica, sans-serif, 20px;
