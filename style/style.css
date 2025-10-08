@@ -47,7 +47,7 @@ html, body {
     font-weight: bolder;
 }
 
-header a, footer a {
+.parallax-a a, .parallax-footer a {
     color: white;
     text-decoration: none;
     font-weight: bolder;
@@ -78,7 +78,7 @@ section.content {
 }
 
 section.image {
-    background-color: rgba(0, 0, 0, 0.482);
+   background-color: rgba(0, 0, 0, 0.482);
    font-family: Arial, Helvetica, sans-serif;
    font: Arial, Helveltica, sans-serif, 20px;
    background: fixed, cover, no-repeat;
