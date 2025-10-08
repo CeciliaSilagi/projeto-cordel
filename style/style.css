@@ -10,13 +10,7 @@ html, body.parallax-body {
     background-color: darkgray;
 }
 
-header {
-    background-color: black;
-    color: white;
-    text-align: center;
-}
-
- header .parallax-header {
+header .parallax-header {
     background-color: black;
     color: white;
     text-align: center;
