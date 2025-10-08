@@ -33,6 +33,12 @@ html, body {
     font-variant: small-caps;
 }
 
+.parallax-a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
 .parallax-p {
     padding-top: 50px;
     text-align: center;
