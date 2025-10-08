@@ -92,7 +92,7 @@ footer {
     padding: 10px;
 }
 
-.parallax-footer{
+ footer .parallax-footer{
     background-color: black;
     color: white;
     text-align: center;
