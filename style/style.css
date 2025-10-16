@@ -132,6 +132,15 @@ section.image > p {
     background-color: rgba(0, 0, 0, 0.281);
 }
 
+section.image#img01 {
+    background-image: url('../images/background001.jpg');
+
+}
+
+section.image#img02 {
+    background-image: url('../images/background002.jpg');
+}
+
 footer{
       background-color: black;
     color: white;
