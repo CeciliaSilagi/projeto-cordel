@@ -94,6 +94,8 @@ a.parallax-a a, fo.parallax-footer a {
 }
 
 section {
+    background-color: white;
+    color: black;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2em;
