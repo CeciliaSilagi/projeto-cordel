@@ -129,7 +129,9 @@ section.image {
 
 section.image > p {
     display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.377);
+    text-shadow: 1px 1px  0px black;
 }
 
 section.image#img01 {
