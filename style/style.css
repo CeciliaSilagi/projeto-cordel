@@ -93,8 +93,8 @@ a.parallax-a a, fo.parallax-footer a {
 }
 
 section {
-    padding-top: 20vh;
-    padding-bottom: 20vh;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
