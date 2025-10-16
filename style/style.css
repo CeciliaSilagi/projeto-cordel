@@ -129,7 +129,7 @@ section.image {
 
 section.image > p {
     display: inline-block;
-    background-color: rgba(0, 0, 0, 0.281);
+    background-color: rgba(0, 0, 0, 0.377);
 }
 
 section.image#img01 {
