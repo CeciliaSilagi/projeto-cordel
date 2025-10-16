@@ -119,11 +119,12 @@ section.content {
 
 section.image {
    background-color: rgba(0, 0, 0, 0.482);
+   color: white;
 
 }
 
 section.image > p {
-    width: 500px;
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.281);
 }
 
