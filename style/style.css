@@ -143,6 +143,7 @@ section.image#img01 {
 
 section.image#img02 {
     background-image: url('../images/background002.jpg');
+    background-size: cover;
 }
 
 footer{
