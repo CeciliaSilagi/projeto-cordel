@@ -31,7 +31,8 @@ header {
 }
 
 header > h1 {
-    padding-top: 60px;
+    padding-top: 50px;
+    padding-left: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-size: 4em;
