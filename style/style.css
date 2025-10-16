@@ -3,6 +3,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Playwrite+DE+Grund+Guides&display=swap');
 
+:root {
+    --fonte1:Verdana, Geneva, Tahoma, sans-serif
+}
+
 
 * {
     margin: 0px;
