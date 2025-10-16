@@ -35,7 +35,7 @@ header > h1 {
     padding-left: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
-    font-size: 4em;
+    font-size: 10vw;
 }
 
 header > p {
